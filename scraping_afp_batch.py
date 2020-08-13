@@ -54,6 +54,3 @@ for year, month in tuples:
     
 # Se cierra el browser
 driver.quit()
-
-# r1 = feather.read_dataframe('files/rentabilidad_afp_202001.feather')
-# r2 = feather.read_dataframe('files/rentabilidad_afp_202002.feather')
