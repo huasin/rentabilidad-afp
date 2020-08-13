@@ -2,3 +2,4 @@ files/
 *webdriver
 requests
 *.pyc
+.Rproj.user
